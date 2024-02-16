@@ -44,6 +44,7 @@ From this Figure 2, it is noticed that the gradients at the positive values beco
 
 
 ![App Screenshot](https://github.com/maksud51/Screenshots/blob/main/Picture2.png?raw=true)
+
 The ReLU activation function introduces non-linearity to the neural network, allowing it to learn complex patterns and relationships within the data. It is computationally efficient and helps in mitigating the vanishing gradient problem, which can occur with other activation functions like sigmoid or tanh.
 
 **Example :**
