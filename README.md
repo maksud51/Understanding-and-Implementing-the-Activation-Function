@@ -61,7 +61,8 @@ Now, the output of this neuron with ReLU activation is computed as:
 
 Let's take an example with `w_1 = 2`, `w_2 = -1`, `b = 1`, and input features `x_1 = ` and `x_2 = -2`.
 
-**1.Linear combination**
+**1. Linear combination**
+
 `Z = 2 . 3 + (-1) . (-2) + 1 = 7`
 
 **2. ReLu Activation**
